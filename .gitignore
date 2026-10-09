@@ -1,0 +1,4 @@
+# your own audio files are not published
+input.wav
+.ipynb_checkpoints/
+__pycache__/
